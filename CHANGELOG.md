@@ -1,3 +1,7 @@
+## 1.0.5
+
+* Upgraded Android implementation to use compileSdk 34.
+
 ## 1.0.4
 
 * Updated AGP to 7 and kotlin to 1.7
